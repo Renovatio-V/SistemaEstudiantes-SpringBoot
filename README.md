@@ -31,5 +31,8 @@ Configura la base de datos MySQL. Crea una base de datos llamada estudiantes_db 
 Compila y ejecuta la aplicación usando Maven:
   ```bash
   mvn spring-boot:run
+```
+## Visuals
+![image](https://github.com/user-attachments/assets/136d1ee8-0a4a-45c2-9a00-1cf040233059)
 
 
